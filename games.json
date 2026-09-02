@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "appid": 3065800,
+      "name": "Marathon",
+      "store": "https://store.steampowered.com/app/3065800/Marathon/"
+    },
+    {
+      "appid": 3159330,
+      "name": "Assassin's Creed Shadows",
+      "store": "https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/"
+    }
+  ]
+}
