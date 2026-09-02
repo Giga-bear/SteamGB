@@ -2,9 +2,10 @@
 
 Independent Steam concurrent-player log. Valve API only. Not SteamDB.
 
-## Load these from the Build app
+Live counts are fetched in the app from Steam. This repo is the history.
 
-- Snapshot: https://raw.githubusercontent.com/Giga-bear/SteamGB/main/latest.json
-- History: https://raw.githubusercontent.com/Giga-bear/SteamGB/main/history.csv
+## Load from the Build app
 
-`latest.json` is the live tile. `history.csv` is one row per game per poll.
+https://raw.githubusercontent.com/Giga-bear/SteamGB/main/history.csv
+
+One row per game per poll: `ts,appid,name,players`
