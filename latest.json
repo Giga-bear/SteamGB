@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-09-02T14:45:18Z",
+  "source": "ISteamUserStats/GetNumberOfCurrentPlayers",
+  "games": [
+    {
+      "appid": 3065800,
+      "name": "Marathon",
+      "players": 1638,
+      "store": "https://store.steampowered.com/app/3065800/Marathon/"
+    }
+  ]
+}
