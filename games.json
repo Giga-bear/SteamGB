@@ -9,6 +9,21 @@
       "appid": 3159330,
       "name": "Assassin's Creed Shadows",
       "store": "https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/"
+    },
+    {
+      "appid": 2806050,
+      "name": "Halo: Campaign Evolved",
+      "store": "https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/"
+    },
+    {
+      "appid": 1934570,
+      "name": "South of Midnight",
+      "store": "https://store.steampowered.com/app/1934570/South_of_Midnight/"
+    },
+    {
+      "appid": 3489700,
+      "name": "Stellar Blade",
+      "store": "https://store.steampowered.com/app/3489700/Stellar_Blade/"
     }
   ]
 }
